@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "produto": "Calça Wide",
+        "avatar": "https://th.bing.com/th/id/OIP.-UPipUAILO6WzKa5mpSPrAAAAA?rs=1&pid=ImgDetMain",
+        "preco": "189,99"
+    },
+    {
+        "id": 2,
+        "produto": "Body Cecília",
+        "avatar": "https://th.bing.com/th/id/OIP.g3qBBp3gcuam9n9aSuTa5wHaJP?rs=1&pid=ImgDetMain",
+        "preco": "89,99"
+    },
+    {
+        "id": 3,
+        "produto": "Cropped Mariana",
+        "avatar": "https://th.bing.com/th/id/R.eb53bb8ba22e808b647d24d3db6b42b7?rik=5n9l8qbwESbbig&riu=http%3a%2f%2fcea.vteximg.com.br%2farquivos%2fids%2f14023787%2fBlusa-Feminina-Cropped-Canelada-com-No-Manga-Curta-Decote-Redondo-Preta-9712782-Preto_1.jpg%3fv%3d637248283692370000&ehk=xTjvkhIVw0W99r4OZWP%2fDSxAiYzTXtJ4OEBfnLQHImY%3d&risl=&pid=ImgRaw&r=0",
+        "preco": "49,99"
+    },
+    {
+        "id": 4,
+        "produto": "Vestido Farm",
+        "avatar": "https://lojafarm.vteximg.com.br/arquivos/ids/3411585-708-1062/331286_49174_2-VESTIDO-LONGO-JARDIM-DE-CONCHA.jpg?v=638590755319570000",
+        "preco": "499,99"
+    }
+]
